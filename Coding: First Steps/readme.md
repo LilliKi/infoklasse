@@ -1,1 +1,1 @@
-# Coding: First Steps (by Robin)
+# Coding: First Steps
